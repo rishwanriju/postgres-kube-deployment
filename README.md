@@ -2,6 +2,8 @@
 
 before you start :
 
+download golang project https://github.com/victorsteven/Dockerized-Golang-Postgres-Mysql-API.git
+
 get minikube if you are running in local
 
 or get kubernetes with all the configuration done
