@@ -28,3 +28,4 @@ start the service using app-postgres-service.yaml
 
 you can get the link of the app using minikube service fullstack-app-postgres --url if you are using minikube
 
+additionally if you encouter any error try kubectl describe pod command and kubectl logs to debug
